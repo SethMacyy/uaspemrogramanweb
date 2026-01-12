@@ -60,6 +60,18 @@ Dashboard Admin dirancang sebagai "Command Center" dengan fitur lengkap:
 * **Update (Reconfigure)**: Fitur edit tercanggih menggunakan **Bootstrap Modals**. Menggunakan JavaScript untuk mem-parsing data produk ke form edit tanpa reload halaman.
 * **Delete (Erasure)**: Penghapusan permanen record data dari mainframe database.
 
+## 🛡️ Access Credentials (Mainframe Entry)
+
+Gunakan kredensial di bawah ini untuk menembus lapisan keamanan terminal sesuai dengan level akses yang diinginkan:
+
+| Access Level | Identity (Username) | Security Key (Password) | Permissions |
+| :--- | :--- | :--- | :--- |
+| **Administrator** | `admin` | `admin123` | Full CRUD Access, System Monitor |
+| **User Guest** | `user` | `user123` | Catalog Access, Transaction Simulation |
+
+> [!IMPORTANT]  
+> Seluruh password telah dienkripsi dalam database. Pastikan input sesuai dengan case-sensitive terminal untuk menghindari penguncian node akses.
+
 ---
 
 ## 📁 Struktur Direktori
