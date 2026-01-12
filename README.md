@@ -5,6 +5,18 @@
 ![MVC](https://img.shields.io/badge/Architecture-MVC-orange?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI/UX-Futuristic-blueviolet?style=for-the-badge)
 
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│ ID CARD: AUTHORIZED DEVELOPER                            │
+├──────────────────────────────────────────────────────────┤
+│ NAME : SURYA PUTRA DARMA JAYA                            │
+│ NIM  : 312410405                                         │
+│ NODE : SETHMACY.HUB_MAINFRAME                            │
+└──────────────────────────────────────────────────────────┘
+```
+
+
 **sethmacy.hub** adalah platform e-commerce futuristik bertema Cyberpunk. Proyek ini menggabungkan estetika terminal tingkat tinggi dengan fungsionalitas manajemen data modern (CRUD), sistem otentikasi berbasis peran (Role-based Access), dan pengalaman audiovisual yang imersif.
 
 ---
